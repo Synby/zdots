@@ -127,7 +127,7 @@
   "launcherLogoColorInvertOnMode": false,
   "launcherLogoBrightness": 0.5,
   "launcherLogoContrast": 1,
-  "launcherLogoSizeOffset": 12,
+  "launcherLogoSizeOffset": 0,
   "fontFamily": "Adwaita Sans",
   "monoFontFamily": "Adwaita Mono",
   "fontWeight": 400,
